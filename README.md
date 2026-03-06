@@ -91,7 +91,6 @@ Screenshots of the dashboard are available in the **/screenshots** folder.
 
 ---
 
-## 📬 Contact
+## 📬 Author
 **Rupal Tripathi**  
-B.Tech CSE | Data Analytics & BI Enthusiast  
-GitHub: https://github.com/YOUR_USERNAME
+
